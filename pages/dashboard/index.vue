@@ -14,7 +14,9 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-5"></div>
+        <div class="col-md-5">
+          <Wallet />
+        </div>
         <div class="col-md-7">
           <div class="card radius-10">
             <div class="card-body" style="position: relative;">

@@ -1,10 +1,12 @@
 <template>
   <div class="page-content">
     <Title :title="title" />
-    <div class="container"> <div>
+    <div class="container">
+       <BvnVerification />
+    <div>
         <div class="col-md-12">
           <el-alert
-            title="Your wallet has been credited successfully!"
+            title="Your wallet has been credited success!"
             type="success"
             class="mb-3"
             effect="dark"

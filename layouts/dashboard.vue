@@ -8,7 +8,9 @@
     <Header />
     <!--end header -->
     <!--start page wrapper -->
-    <div class="page-wrapper"></div>
+    <div class="page-wrapper">
+      <Nuxt />
+    </div>
     <!--end page wrapper -->
     <!--start overlay-->
     <div class="overlay toggle-icon" />

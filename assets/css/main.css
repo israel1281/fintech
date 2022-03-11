@@ -1,0 +1,18 @@
+.airtime-select {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.airtime-select img {
+  transition: outline 0.1s;
+}
+
+.airtime-select img:hover {
+  outline: 2px solid #0d6efd;
+  border-radius: 5px;
+}
+
+.airtime-select img.selected {
+  outline: 2px solid #0d6efd;
+  border-radius: 5px;
+}

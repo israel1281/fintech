@@ -3,6 +3,7 @@
     <Title :title="title" />
     <div class="container">
        <BvnVerification />
+       <VerifyPhone />
     <div>
         <div class="col-md-12">
           <el-alert

@@ -2,7 +2,7 @@
   <div class="sidebar-wrapper" data-simplebar="true">
     <div class="sidebar-header">
       <div>
-        <img src="/favicon.png" class="logo-icon" alt="logo icon">
+        <i class="bx bx-menu" />
       </div>
       <div>
         <h4 class="logo-text">
